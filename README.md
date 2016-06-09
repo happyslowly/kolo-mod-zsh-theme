@@ -1,1 +1,1 @@
-# kolo-mod-zsh-theme
+# rainbow-zsh-theme
